@@ -1,0 +1,6 @@
+{
+    "name": "sathral/composer-hello-world",
+    "require": {
+        "monolog/monolog": "2.0.*"
+    }
+}
